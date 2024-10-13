@@ -115,7 +115,7 @@ public class addGame {
         while(true) {
             try {
                 System.out.println("Return To Main Menu. Press 1 ?");
-                System.out.println("Delete Another Game. Press 2 ?");
+                System.out.println("Add Another Game. Press 2 ?");
 
                 answer = Integer.parseInt(scanner.nextLine());
                 //scanner.nextLine();
