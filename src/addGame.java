@@ -55,7 +55,7 @@ public class addGame {
             System.out.println("Enter Console Manufacture");
             String console = scanner.nextLine();
 
-            System.out.println("Enter Console Studio");
+            System.out.println("Enter Studio");
             String studio = scanner.nextLine();
 
             System.out.println("Enter Product Type");
