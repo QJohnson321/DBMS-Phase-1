@@ -73,6 +73,9 @@ public class deleteGames {
                 int answer2 = scanner.nextInt();
                 scanner.nextLine();
 
+                System.out.println("Username: Login");
+                System.out.println("Password: 1234");
+
                 System.out.println("Type In Your Username");
                 String userNameAccess = scanner.nextLine();
 
