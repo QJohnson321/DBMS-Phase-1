@@ -11,6 +11,9 @@ import java.util.Scanner;
 
         public void Login() {
             while (true) {
+                System.out.println("Username: Login");
+                System.out.println("Password: 1234");
+                
                 System.out.println("Type In Your Username");
                 String userNameAccess = scanner.nextLine();
 
